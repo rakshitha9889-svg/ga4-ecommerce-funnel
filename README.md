@@ -3,7 +3,7 @@
 **Business questions:** Where does an e-commerce webshop lose buyers, which channels bring customers who convert, and should we ship a new landing page?
 
 **Live dashboard:** [Webshop Funnel & Conversion Dashboard]([DASHBOARD_LINK_HERE](https://datastudio.google.com/s/gxl8yxJdkfk))
-
+https://datastudio.google.com/s/gxl8yxJdkfk
 ![Dashboard](images/dashboard.png)
 
 ## Key findings
